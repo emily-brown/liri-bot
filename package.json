@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/emily-brown/liri-bot/issues"
   },
-  "homepage": "https://github.com/emily-brown/liri-bot#readme"
+  "homepage": "https://github.com/emily-brown/liri-bot#readme",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "dotenv": "^8.1.0",
+    "node-spotify-api": "^1.1.1"
+  }
 }
