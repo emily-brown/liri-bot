@@ -16,7 +16,7 @@ Create a CLI App "LIRI" bot which stands for Language Interpretation and Recogni
 
 ## Using LIRI
 
-https://asciinema.org/a/QWD1ggoEHIAbYEkbGVYOuKqn7
+Click on the link to view liri in action: https://asciinema.org/a/QWD1ggoEHIAbYEkbGVYOuKqn7
 
 ### `concert-this`
 
